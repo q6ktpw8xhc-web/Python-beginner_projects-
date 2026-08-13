@@ -1,4 +1,4 @@
-# ⏳ Echoes of Time
+#  Echoes of Time
 
 A text-based adventure game built with Python where players travel through different time periods to recover the Time Crystals and restore the timeline.
 

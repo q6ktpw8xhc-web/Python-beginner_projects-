@@ -1,4 +1,4 @@
-# 🎵 Lyrics Quiz
+#  Lyrics Quiz
 
 A fun Python quiz game where players complete song lyrics by choosing the correct answer.
 

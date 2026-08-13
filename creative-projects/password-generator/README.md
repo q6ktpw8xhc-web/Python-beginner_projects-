@@ -1,4 +1,4 @@
-# 🔐 Password Generator
+#  Password Generator
 
 A Python application that creates strong, random passwords based on a user-selected length.
 
